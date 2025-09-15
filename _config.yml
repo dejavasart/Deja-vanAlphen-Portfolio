@@ -1,0 +1,9 @@
+title: My Portfolio
+name: Deja van Alphen
+email: dejavanalphen@gmail.com
+baseurl:
+
+collections:
+  design:
+    output: true
+    permalink: /:collection/:path/
