@@ -1,2 +1,148 @@
 /* CSS Document */
 
+body {
+	background-color:#36230B;
+}
+
+img.shortdtlogo1 {
+	width:200px;
+	hight:200px;
+	position:absolute;
+	top:450px;
+	left:500px;
+	padding: 20px;
+}
+
+img.shortdtlogo2 {
+	width:200px;
+	hight:200px;
+	position:absolute;
+	top:450px;
+	left:970px;
+	padding: 20px;
+}
+
+img.designtea{
+	width:400px;
+	hight:400px;
+	position:absolute;
+	left:400px;
+	padding: 20px;
+	
+}
+
+img.dtpodcast {
+	width:400px;
+	hight:400px;
+	position:absolute;
+	left: 850px;
+	padding:20px;
+	
+	
+}
+
+.rectangle1 {
+			border-radius: 25px;
+			padding:20px;
+			height:100px;
+			width:150px;
+			background-color:#C3C771;
+			position:absolute;
+			top:700px;
+			left:470px;
+		}
+.rectangle2 {
+			border-radius: 25px;
+			padding:20px;
+			height: 100px;
+			width:150px;
+			background-color:#5E3D23;
+			position:absolute;
+			top:700px;
+			left:670px;
+		}
+.rectangle3 {
+			border-radius: 25px;
+			padding:20px;
+			height:100px;
+			width:150px;
+			background-color:#D1AE33;
+			position:absolute;
+			top:700px;
+			left:870px;
+		}
+.rectangle4 {
+			border-radius: 25px;
+			padding:20px;
+			height:100px;
+			width:150px;
+			background-color:#FF9940;
+			position:absolute;
+			top:700px;
+			left:1070px;
+		}
+
+.rectangle5 {
+			border-radius: 25px;
+			padding:20px;
+			height:100px;
+			width:250px;
+			background-color:#FEFBF4;
+			position:absolute;
+			top:900px;
+			left:500px;
+		}
+
+.rectangle6 {
+			border-radius: 25px;
+			padding:20px;
+			height:100px;
+			width:250px;
+			background-color:#29180B;
+			position:absolute;
+			top:900px;
+			left:970px;
+		}
+h1{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: aliceblue;
+	align-content: center;
+	
+}
+
+p{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	top: 1030px;
+	color: aliceblue;
+	align-content: center;
+}
+
+.textplacement1{
+	position:relative;
+	left: 590px;
+	top: 1090px;
+}
+.textplacement2{
+	position:relative;
+	left: 1090px;
+	top: 990px;
+	
+}
+
+.textmontserrateplacement1{
+	position:relative;
+	left: 590px;
+	top: 1030px;
+	
+}
+.textmonserrateplacement2{
+	position:relative;
+	left: 1090px;
+	top: 925px;
+	
+}
+
+.gallery{
+	position: absolute;
+	top: 1390px;
+}
