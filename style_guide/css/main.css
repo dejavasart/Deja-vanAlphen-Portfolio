@@ -9,7 +9,7 @@ img.shortdtlogo1 {
 	hight:200px;
 	position:absolute;
 	top:450px;
-	left:500px;
+	left:710px;
 	padding: 20px;
 }
 
@@ -17,9 +17,49 @@ img.shortdtlogo2 {
 	width:200px;
 	hight:200px;
 	position:absolute;
-	top:450px;
-	left:970px;
+	top:660px;
+	left:710px;
 	padding: 20px;
+}
+
+.designteatext1 {
+	position:relative;
+	top:550px;
+	left:1010px;
+	font-family: Montserrat, "Montserrat Black", "Montserrat ExtraBold", "Montserrat ExtraLight", "Montserrat Light", "Montserrat Medium", "Montserrat SemiBold", "Montserrat Thin";
+	background-color: #FEFBF4;
+	color: #5E3D23;
+	font-weight: 400;
+}
+
+.designteatext2{
+	position:relative;
+	top:660px;
+	left:1010px;
+	font-family: Montserrat, "Montserrat Black", "Montserrat ExtraBold", "Montserrat ExtraLight", "Montserrat Light", "Montserrat Medium", "Montserrat SemiBold", "Montserrat Thin";
+	font-weight: 400;
+	background-color: #29180B;
+	color: #FF9940;
+}
+
+.h31 {
+	top: 490px;
+	left:1130px;
+	position:relative;
+	font-family: "Bodoni MT", "Bodoni MT Black", "Bodoni MT Condensed", "Bodoni MT Poster Compressed";
+	background-color: #FEFBF4;
+	color: #C6CA78;
+	font-weight: 200;
+}
+
+.h32 {
+	top: 601px;
+	left:1130px;
+	position:relative;
+	font-family: "Bodoni MT", "Bodoni MT Black", "Bodoni MT Condensed", "Bodoni MT Poster Compressed";
+	background-color: #29180B;
+	color: #C6CA78;
+	font-weight: 200;
 }
 
 img.designtea{
@@ -41,6 +81,36 @@ img.dtpodcast {
 	
 }
 
+.designlogo1 {
+	width:200px;
+	hight:200px;
+	position:absolute;
+	left: 400px;
+	top:450px;
+	padding:20px;
+}
+
+.designlogo2 {
+	width:200px;
+	hight:200px;
+	position:absolute;
+	left:400px;
+	top:660px;
+	padding:20px;
+}
+
+.designteatext1 {
+	font-family: Montserrat, "Montserrat Black", "Montserrat ExtraBold", "Montserrat ExtraLight", "Montserrat Light", "Montserrat Medium", "Montserrat SemiBold", "Montserrat Thin";
+	background-color: #FEFBF4;
+	
+	
+}
+
+.designtextext2 {
+	font-family: Montserrat, "Montserrat Black", "Montserrat ExtraBold", "Montserrat ExtraLight", "Montserrat Light", "Montserrat Medium", "Montserrat SemiBold", "Montserrat Thin";
+	background-color:#FEFBF4;
+}
+
 .rectangle1 {
 			border-radius: 25px;
 			padding:20px;
@@ -48,7 +118,7 @@ img.dtpodcast {
 			width:150px;
 			background-color:#C3C771;
 			position:absolute;
-			top:700px;
+			top:900px;
 			left:470px;
 		}
 .rectangle2 {
@@ -58,7 +128,7 @@ img.dtpodcast {
 			width:150px;
 			background-color:#5E3D23;
 			position:absolute;
-			top:700px;
+			top:900px;
 			left:670px;
 		}
 .rectangle3 {
@@ -68,7 +138,7 @@ img.dtpodcast {
 			width:150px;
 			background-color:#D1AE33;
 			position:absolute;
-			top:700px;
+			top:900px;
 			left:870px;
 		}
 .rectangle4 {
@@ -78,7 +148,7 @@ img.dtpodcast {
 			width:150px;
 			background-color:#FF9940;
 			position:absolute;
-			top:700px;
+			top:900px;
 			left:1070px;
 		}
 
@@ -89,7 +159,7 @@ img.dtpodcast {
 			width:250px;
 			background-color:#FEFBF4;
 			position:absolute;
-			top:900px;
+			top:1150px;
 			left:500px;
 		}
 
@@ -100,49 +170,87 @@ img.dtpodcast {
 			width:250px;
 			background-color:#29180B;
 			position:absolute;
-			top:900px;
+			top:1150px;
 			left:970px;
 		}
-h1{
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-	color: aliceblue;
-	align-content: center;
-	
-}
-
-p{
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-	top: 1030px;
-	color: aliceblue;
-	align-content: center;
-}
 
 .textplacement1{
 	position:relative;
-	left: 590px;
-	top: 1090px;
+	left: 500px;
+	top: 900px;
+	font-family: "Bodoni MT", "Bodoni MT Black", "Bodoni MT Condensed", "Bodoni MT Poster Compressed";
+	font-weight: 400;
+	font-color: #FEFBF4;
 }
 .textplacement2{
 	position:relative;
-	left: 1090px;
-	top: 990px;
-	
+	left: 1000px;
+	top: 800px;
+	font-family: "Bodoni MT", "Bodoni MT Black", "Bodoni MT Condensed", "Bodoni MT Poster Compressed";
+	font-weight:100;
+	font-color: #FEFBF4;
 }
 
 .textmontserrateplacement1{
 	position:relative;
-	left: 590px;
-	top: 1030px;
+	left: 500px;
+	top: 900px;
+	font-family:Montserrat, "Montserrat Black", "Montserrat ExtraBold", "Montserrat ExtraLight", "Montserrat Light", "Montserrat Medium", "Montserrat SemiBold", "Montserrat Thin";
+	font-weight: 400;
+	font-color: #FEFBF4;
 	
 }
 .textmonserrateplacement2{
 	position:relative;
-	left: 1090px;
-	top: 925px;
-	
+	left: 1000px;
+	top: 800px;
+	font-family:Montserrat, "Montserrat Black", "Montserrat ExtraBold", "Montserrat ExtraLight", "Montserrat Light", "Montserrat Medium", "Montserrat SemiBold", "Montserrat Thin";
+	font-weight: 100;
+	font-color: #FEFBF4;
 }
 
 .gallery{
 	position: absolute;
-	top: 1390px;
+	top: 1750px;
+	left:480px;
+}
+
+p{
+	color: #FEFBF4;
+	font-family: Montserrat, "Montserrat Black", "Montserrat ExtraBold", "Montserrat ExtraLight", "Montserrat Light", "Montserrat Medium", "Montserrat SemiBold", "Montserrat Thin";
+	font-size: 400;
+}
+
+p.one{
+	position:relative;
+	top:800px;
+	left: 520px;
+}
+p.two{
+	position:relative;
+	top:765px;
+	left: 730px;
+}
+p.three{
+	position:relative;
+	top:730px;
+	left: 930px;
+}
+
+p.four{
+	position:relative;
+	top:690px;
+	left:1130px;
+}
+
+p.five{
+	position:relative;
+	top:910px;
+	left:590px;
+}
+
+p.six{
+	position:relative;
+	top:870px;
+	left:1080px;
 }
